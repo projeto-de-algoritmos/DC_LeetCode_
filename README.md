@@ -48,4 +48,6 @@ Para aplicar os casos de teste (in e out), basta acessar o link referente ao exe
 
 ## Apresentação 
 
-A apresentação da entrega pode ser visualizada [aqui](). 
+A apresentação da entrega pode ser visualizada [aqui](https://unbbr.sharepoint.com/sites/Test73/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20240819_234226-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1&referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view).*
+
+*Acesso pelo Teams devido à problema de permissão ao vídeo.
