@@ -23,7 +23,7 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 2, a dupla selecionou
 - [()]()
 <img width="734" alt="I" src="">
 
-- [(Dificuldade)]()
+- [148 (Média)](https://leetcode.com/problems/sort-list/description/)
 <img width="734" alt="I" src="Link">
 
 ## Instalação 
