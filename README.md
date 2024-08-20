@@ -15,13 +15,13 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 2, a dupla selecionou
 ## Screenshots
 
 - [23 (Difícil)](https://leetcode.com/problems/merge-k-sorted-lists/description/)
-<img width="734" alt="Swim in Rising Water" src="">
+<img width="734" alt="I" src="">
 
 - [4 (Difícil)](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 <img width="734" alt="I" src="">
 
 - [()]()
-<img width="734" alt="I" src="Link">
+<img width="734" alt="I" src="">
 
 - [(Dificuldade)]()
 <img width="734" alt="I" src="Link">
