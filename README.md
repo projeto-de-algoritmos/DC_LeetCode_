@@ -10,7 +10,7 @@
 | 19/0094320  |  Pedro Augusto Santos Siqueira |
 
 ## Sobre 
-Para desenvolver o conteúdo abordado no tópico de Grafos 2, a dupla selecionou quatro exercícios em um juiz online - o LeetCode -, sendo eles, três de nível difícil e um de nível médio.
+Para desenvolver o conteúdo abordado no tópico de Dividir e Conquistar, a dupla selecionou quatro exercícios em um juiz online - o LeetCode -, sendo eles, três de nível difícil e um de nível médio.
 
 ## Screenshots
 
