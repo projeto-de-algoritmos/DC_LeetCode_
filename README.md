@@ -20,8 +20,8 @@ Para desenvolver o conteúdo abordado no tópico de Dividir e Conquistar, a dupl
 - [4 (Difícil)](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 <img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/DC_LeetCode_/blob/master/img/LeetCode_4.jpeg">
 
-- [()]()
-<img width="734" alt="I" src="">
+- [493 (Difícil)](https://leetcode.com/problems/reverse-pairs/submissions/1361948615/)
+<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/DC_LeetCode_/blob/master/img/LeetCode_493.jpg">
 
 - [148 (Média)](https://leetcode.com/problems/sort-list/description/)
 <img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/DC_LeetCode_/blob/master/img/LeetCode_148.jpg">
