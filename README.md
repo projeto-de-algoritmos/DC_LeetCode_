@@ -24,7 +24,7 @@ Para desenvolver o conteúdo abordado no tópico de Dividir e Conquistar, a dupl
 <img width="734" alt="I" src="">
 
 - [148 (Média)](https://leetcode.com/problems/sort-list/description/)
-<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/DC_LeetCode_/tree/master/LeetCode_148">
+<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/DC_LeetCode_/blob/master/img/LeetCode_148.jpg">
 
 ## Instalação 
 **Linguagem**: C++<br>
