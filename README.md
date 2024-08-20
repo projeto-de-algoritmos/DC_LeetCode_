@@ -15,16 +15,16 @@ Para desenvolver o conteúdo abordado no tópico de Dividir e Conquistar, a dupl
 ## Screenshots
 
 - [23 (Difícil)](https://leetcode.com/problems/merge-k-sorted-lists/description/)
-<img width="734" alt="I" src="">
+<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/DC_LeetCode_/blob/master/img/LeetCode_23.jpeg">
 
 - [4 (Difícil)](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
-<img width="734" alt="I" src="">
+<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/DC_LeetCode_/blob/master/img/LeetCode_4.jpeg">
 
 - [()]()
 <img width="734" alt="I" src="">
 
 - [148 (Média)](https://leetcode.com/problems/sort-list/description/)
-<img width="734" alt="I" src="Link">
+<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/DC_LeetCode_/tree/master/LeetCode_148">
 
 ## Instalação 
 **Linguagem**: C++<br>
