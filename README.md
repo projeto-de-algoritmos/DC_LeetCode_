@@ -33,7 +33,7 @@ Para desenvolver o conteúdo abordado no tópico de Dividir e Conquistar, a dupl
 ## 1. Clone o repositório 
 
 ```bash
-https://github.com/projeto-de-algoritmos/DC_LeetCode_.git
+git clone https://github.com/projeto-de-algoritmos/DC_LeetCode_.git
 ```
 
 ### 2. Compile o programa
